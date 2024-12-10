@@ -1,0 +1,281 @@
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/controllers/MainController.php:22
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/controllers/MainController.php:58
+msgid "Sign in to Admin Panel"
+msgstr "Yönetim Paneline Giriş Yap"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/controllers/MainController.php:23
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/controllers/MainController.php:59
+msgid "Admin Panel - Login"
+msgstr "Yönetim Paneli - Giriş"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/controllers/AdminController.php:20
+msgid "Logs | Administration of Fake Admin"
+msgstr "Kayıtlar | Sahte Yönetici Yönetimi"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/controllers/AdminController.php:29
+msgid "Config | Fake Admin Honeypot"
+msgstr "Ayarlar | Sahte Yönetici Tuzağı"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/inc/class/Logger.php:89
+#: /var/www/html/pH7CMS/_protected/app/system/modules/two-factor-auth/controllers/MainController.php:86
+msgid "Date: %0%"
+msgstr "Tarih: %0%"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/inc/class/Logger.php:90
+msgid "IP: %0%"
+msgstr "IP adresi:  %0%"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/inc/class/Logger.php:91
+msgid "QUERY: %0%"
+msgstr "SORGU: %0%"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/inc/class/Logger.php:92
+msgid "Agent: %0%"
+msgstr "Tarayıcı: %0%"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/inc/class/Logger.php:93
+msgid "Referer: %0%"
+msgstr "Yönlendiren: %0%"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/inc/class/Logger.php:94
+msgid "LOGIN - Email: %0% - Username: %1% - Password: %2%"
+msgstr "GİRİŞ - E-posta: %0% - Kullanıcı Adı: %1% - Parola: %2%"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/inc/class/Logger.php:137
+msgid "Reporting of the Fake Admin Honeypot"
+msgstr "Sahte Yönetici Tuzağı Raporlama"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/forms/LoginForm.php:33
+#: /var/www/html/pH7CMS/_protected/app/system/core/forms/ResendActivationCoreForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/contact/forms/ContactForm.php:32
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/LoginForm.php:29
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/EditForm.php:59
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/JoinForm.php:39
+#: /var/www/html/pH7CMS/_protected/app/system/modules/lost-password/forms/ForgotPasswordForm.php:31
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/LoginForm.php:29
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/JoinForm.php:47
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/LoginForm.php:29
+msgid "Your Email:"
+msgstr "E-posta Adresiniz:"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/forms/LoginForm.php:34
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/LoginForm.php:30
+msgid "Your Username:"
+msgstr "Kullanıcı Adınız:"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/forms/LoginForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/core/forms/DeleteUserCoreForm.php:29
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/LoginForm.php:31
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/JoinForm.php:41
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/LoginForm.php:31
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/JoinForm.php:49
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/LoginForm.php:31
+msgid "Your Password:"
+msgstr "Parolanız:"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/forms/LoginForm.php:39
+#: /var/www/html/pH7CMS/_protected/app/system/core/forms/ResendActivationCoreForm.php:37
+#: /var/www/html/pH7CMS/_protected/app/system/core/forms/DeleteUserCoreForm.php:32
+#: /var/www/html/pH7CMS/_protected/app/system/modules/contact/forms/ContactForm.php:42
+#: /var/www/html/pH7CMS/_protected/app/system/modules/invite/forms/InviteForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/LoginForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/JoinForm.php:56
+#: /var/www/html/pH7CMS/_protected/app/system/modules/lost-password/forms/ForgotPasswordForm.php:33
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/LoginForm.php:36
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/JoinForm.php:54
+#: /var/www/html/pH7CMS/_protected/app/system/modules/forum/forms/MsgForm.php:45
+#: /var/www/html/pH7CMS/_protected/app/system/modules/forum/forms/ReplyMsgForm.php:32
+#: /var/www/html/pH7CMS/_protected/app/system/modules/mail/forms/MailForm.php:41
+#: /var/www/html/pH7CMS/_protected/app/system/modules/note/forms/NoteForm.php:57
+#: /var/www/html/pH7CMS/_protected/app/system/modules/comment/forms/CommentForm.php:33
+#: /var/www/html/pH7CMS/_protected/app/system/modules/newsletter/forms/SubscriptionForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/LoginForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/SettingForm.php:218
+msgid "Captcha:"
+msgstr "Captcha:"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/forms/LoginForm.php:39
+#: /var/www/html/pH7CMS/_protected/app/system/core/forms/ResendActivationCoreForm.php:37
+#: /var/www/html/pH7CMS/_protected/app/system/modules/invite/forms/InviteForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/LoginForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/JoinForm.php:56
+#: /var/www/html/pH7CMS/_protected/app/system/modules/lost-password/forms/ForgotPasswordForm.php:33
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/LoginForm.php:36
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/JoinForm.php:54
+#: /var/www/html/pH7CMS/_protected/app/system/modules/forum/forms/MsgForm.php:45
+#: /var/www/html/pH7CMS/_protected/app/system/modules/forum/forms/ReplyMsgForm.php:32
+#: /var/www/html/pH7CMS/_protected/app/system/modules/mail/forms/MailForm.php:41
+#: /var/www/html/pH7CMS/_protected/app/system/modules/note/forms/NoteForm.php:57
+#: /var/www/html/pH7CMS/_protected/app/system/modules/comment/forms/CommentForm.php:33
+#: /var/www/html/pH7CMS/_protected/app/system/modules/newsletter/forms/SubscriptionForm.php:35
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/LoginForm.php:35
+msgid "Enter the code above:"
+msgstr "Yukarıdaki kodu giriniz:"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/forms/LoginForm.php:43
+#: /var/www/html/pH7CMS/_protected/framework/Mvc/Controller/Controller.class.php:152
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/forms/LoginForm.php:39
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/LoginForm.php:40
+#: /var/www/html/pH7CMS/_protected/app/system/modules/user/forms/LoginSplashForm.php:31
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/LoginForm.php:39
+msgid "Login"
+msgstr "Giriş"
+
+#: /var/www/html/pH7CMS/_repository/module/fake-admin-panel/forms/processing/LoginFormProcess.php:25
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/forms/processing/LoginFormProcess.php:63
+msgid "\"Email\", \"Username\" or \"Password\" is Incorrect"
+msgstr "\"E-posta\", \"Kullanıcı Adı\" veya \"Parola\" Yanlış"
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.1.0-1.1.2/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.10-1.1.0/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.2-0.1.3/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.2-1.0.3/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.9.9-1.0.0/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.8.7-0.9.8/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.7-0.8.7/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.9.8-0.9.9/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.3-0.1.4/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.1-1.0.2/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.3-1.0.10/info/conclusion.php:17
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.4-0.1.6/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.0-1.0.1/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.6-0.1.7/info/conclusion.php:16
+#: /var/www/html/pH7CMS/_protected/app/system/core/assets/cron/96h/GeneralCoreCron.php:24
+#: /var/www/html/pH7CMS/_protected/app/system/core/assets/cron/96h/DatabaseCoreCron.php:67
+#: /var/www/html/pH7CMS/_protected/app/system/modules/affiliate/controllers/AdminController.php:337
+#: /var/www/html/pH7CMS/_protected/app/system/modules/admin123/controllers/UserController.php:378
+msgid "Done!"
+msgstr "¡Tamamlandı!"
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.1.0-1.1.2/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.10-1.1.0/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.2-0.1.3/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.2-1.0.3/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.9.9-1.0.0/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.8.7-0.9.8/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.7-0.8.7/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.9.8-0.9.9/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.3-0.1.4/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.1-1.0.2/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.3-1.0.10/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.4-0.1.6/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.0-1.0.1/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.6-0.1.7/info/introduction.php:16
+msgid "WARNING!"
+msgstr "¡¡UYARI!!"
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.1.0-1.1.2/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.10-1.1.0/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.2-0.1.3/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.2-1.0.3/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.9.9-1.0.0/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.8.7-0.9.8/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.7-0.8.7/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.9.8-0.9.9/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.3-0.1.4/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.1-1.0.2/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.3-1.0.10/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.4-0.1.6/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.0-1.0.1/info/introduction.php:16
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.6-0.1.7/info/introduction.php:16
+msgid ""
+"Please make a backup of your site and your database before proceeding with "
+"upgrade!"
+msgstr ""
+"Lütfen yükseltme işlemine başlamadan önce sitenizin ve veritabanınızın "
+"yedeğini alınız! "
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.10-1.1.0/info/introduction.php:17
+msgid "Be careful because this version has a new hash algorithm password."
+msgstr ""
+"Dikkatli olun, çünkü bu sürüm yeni bir imza özeti algoritma parolası "
+"içermektedir."
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.10-1.1.0/info/introduction.php:18
+msgid ""
+"If you have a lot of members, please, stay with your current version if you do "
+"not want all your members must reset their password."
+msgstr ""
+"Eğer çok sayıda üyeniz varsa ve tüm üyelerinizin şifrelerini sıfırlamasını "
+"istemiyorsanız, lütfen mevcut sürümünüzde kalınız."
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.10-1.1.0/info/introduction.php:19
+msgid ""
+"Also for you (and other admins), be sure to reset your password with the new "
+"system hash."
+msgstr ""
+"Ayrıca sizin (ve diğer yöneticilerin) yeni sistem imza özeti algoritmasıyla "
+"şifrenizi sıfırladığınızdan emin olun."
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.3-1.0.10/info/conclusion.php:18
+msgid "Now you need to delete the following files via FTP or SSH:"
+msgstr "Şimdi şu dosyaları FTP veya SSH ile silmeniz gerekiyor:"
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.3-1.0.10/info/conclusion.php:131
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.0-1.0.1/info/conclusion.php:21
+msgid "Good luck :-)"
+msgstr "İyi Şanslar :-)"
+
+#: /var/www/html/pH7CMS/_repository/upgrade/0.1.4-0.1.6/info/conclusion.php:17
+msgid "Please also delete all the cache files for the changes to take effect."
+msgstr "Lütfen değişikliklerin etkili olması için tüm önbellek dosyalarını da siliniz."
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.0-1.0.1/info/conclusion.php:17
+msgid "Warning, this is not finished yet ;-)"
+msgstr "Uyarı, bu henüz tamamlanmadı ;-)"
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.0-1.0.1/info/conclusion.php:19
+msgid "Edit your \"%0%\" file."
+msgstr "\"%0%\" adlı dosyanızı düzenleyin."
+
+#: /var/www/html/pH7CMS/_repository/upgrade/1.0.0-1.0.1/info/conclusion.php:20
+msgid ""
+"Add M after the size of the \"upload.max_size\" variable (e.g., this: \"upload."
+"max_size = 500M\" instead of \"upload.max_size = 500\""
+msgstr ""
+"\"upload.max_size\" değişkeninin boyutunun sonuna M ekleyin (örneğin: "
+"\"upload.max_size = 500\" yerine \"upload.max_size = 500M\" olarak düzenleyin)."
+
+#: /var/www/html/pH7CMS/_protected/framework/Video/Video.class.php:58
+msgid ""
+"FFmpeg is not installed on the server or the path cannot be found. Please "
+"install and configure the path in \"~/YOUR-PROTECTED-FOLDER/app/configs/config."
+"ini\" or contact the administrator of the site/server or Web host by saying the "
+"problem."
+msgstr ""
+"FFmpeg sunucuda yüklü değil veya yol bulunamıyor. Lütfen "
+"\"~/KORUMALI-DOSYANIZIN-ADI/app/configs/config.ini\" dosyasını yükleyip dizini "
+"yapılandırın veya sorun hakkında site/sunucu yöneticisi veya web "
+"barındırıcısıyla iletişime geçin."
+
+#: /var/www/html/pH7CMS/_protected/framework/Http/Http.class.php:198
+msgid "You must enter a valid login ID and password to access this resource."
+msgstr "Bu kaynağa erişmek için geçerli bir giriş kimliği ve parola girmelisiniz."
+
+#: /var/www/html/pH7CMS/_protected/framework/Payment/Gateway/Api/TwoCheckOut.class.php:79
+msgid "Refund transaction valid."
+msgstr "İade işlemi başarılı."
+
+#: /var/www/html/pH7CMS/_protected/framework/Payment/Gateway/Api/TwoCheckOut.class.php:84
+msgid "Invalid refund transaction."
+msgstr "İade işlemi başarısız."
+
+#: /var/www/html/pH7CMS/_protected/framework/Payment/Gateway/Api/TwoCheckOut.class.php:94
+msgid "Purchase transaction valid."
+msgstr "Satın alma işlemi başarılı."
+
+#: /var/www/html/pH7CMS/_protected/framework/Payment/Gateway/Api/TwoCheckOut.class.php:99
+msgid "Invalid purchase transaction."
+msgstr "Satın alma işlemi başarısız."
+
+#: /var/www/html/pH7CMS/_protected/framework/Payment/Gateway/Api/TwoCheckOut.class.php:105
+msgid "Invalid connection to 2CheckOut."
+msgstr "2CheckOut\'a gerçekleştirilen bağlantı geçersiz."
+
+#: /var/www/html/pH7CMS/_protected/framework/Payment/Gateway/Api/PayPal.class.php:85
+msgid "Transaction valid and completed."
+msgstr "İşlem geçerli ve tamamlandı."
+
+#: /var/www/html/pH7CMS/_protected/framework/Payment/Gateway/Api/PayPal.class.php:90
+msgid "Transaction valid but not completed."
+msgstr "İşlem geçerli ancak tamamlanamadı."
